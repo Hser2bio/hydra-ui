@@ -28,7 +28,7 @@ export const ENVIRONMENTS: Environment[] = [
   },
   {
     label: 'devnet',
-    primary: 'https://api.devnet.solana.com',
+    primary: 'https://sly-indulgent-valley.solana-devnet.discover.quiknode.pro/09ccac882e3d3ddc11b4b1a7a4ecbca162b1dc53/',
   },
 ]
 
